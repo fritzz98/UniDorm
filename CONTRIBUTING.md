@@ -7,6 +7,8 @@
 
 * Open a new issue addressing the problem, [open a new one](https://github.com/fritzz98/UniDorm/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
+#### **Licensing?**
+
 #### **If you want to prove yourself as a great software developer to your coworker?**
 
 * deliver clean, testable code
