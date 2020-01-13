@@ -15,7 +15,6 @@ A license tells you what rights you have as a developer, as provided by the copy
 
 * Open a new issue addressing the problem, [open a new one](https://github.com/fritzz98/UniDorm/issues/new). Be sure to include a **title and clear description**, as much relevant information as possible, and a **code sample** or an **executable test case** demonstrating the expected behavior that is not occurring.
 
-#### **Licensing?**
 
 #### **If you have an idea how to improve the app?**
 
