@@ -31,6 +31,10 @@ nav ul {
 	
 }
 
+.text{
+	margin-left: 50px;
+}
+
 nav li{
 	display: inline-block;
 	margin-left: 70px;
