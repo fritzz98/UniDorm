@@ -9,7 +9,7 @@
 
 #### **Licensing?**
 
-#### **if you have an idea how to improve the app?**
+#### **If you have an idea how to improve the app?**
 
 #### **If you want to prove yourself as a great software developer to your coworker?**
 
