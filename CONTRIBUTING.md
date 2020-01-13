@@ -2,7 +2,7 @@
 
 #### **Licensing**
 
-*Licensing is very important to open source projects. It helps ensure the software continues to be available under the terms that the author desired.
+Licensing is very important to open source projects. It helps ensure the software continues to be available under the terms that the author desired.
 
 UniDorm uses the Apache 2.0 license (as found in the LICENSE file in the project’s GitHub repo) to strike a balance between open contribution and allowing you to use the software however you would like to. The Apache 2.0 license is a permissive open source license that allows you to freely use, modify, distribute and sell your own products that include Apache 2.0 licensed software. 
 
