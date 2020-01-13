@@ -1,0 +1,56 @@
+body {
+		margin: 0;
+		
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+
+header{
+	background: #55d6aa;
+}
+header::after{
+	
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.logo {
+	float: left;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	
+	
+	
+	
+}
+
+nav li{
+	display: inline-block;
+	margin-left: 70px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	
+}
+
+nav a{
+	color: x444;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+#footerino {
+	
+	margin-top: 600px;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    background-color: #6495ED;
+    text-align: center;
+}
